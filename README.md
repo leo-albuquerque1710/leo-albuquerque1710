@@ -1,4 +1,4 @@
-# Eu sou Leonardo Albuquerque! 👋
+# Eu sou Leonardo Albuquerque! 
 
  Estudante de Engenharia de Software na Universidade São Judas Tadeu.
 
