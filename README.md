@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**leo-albuquerque1710/leo-albuquerque1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eu sou Leonardo Albuquerque!
 
-Here are some ideas to get you started:
+🎓 Estudante de Engenharia de Software na Universidade São Judas Tadeu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tenho interesse em desenvolvimento de software, automação e análise de dados. Gosto de entender como as tecnologias funcionam e transformar problemas em soluções práticas por meio da programação.
+
+## 🚀 Sobre mim
+
+- 📚 Cursando o primeiro semestre de Engenharia de Software.
+- 🐍 Estudando Python e desenvolvendo minha lógica de programação.
+- 🗄️ Explorando bancos de dados relacionais com SQL e SQLite.
+- 📊 Desenvolvendo conhecimentos em análise de dados, Excel e Power BI.
+- 🎯 Buscando uma oportunidade de estágio ou posição júnior em tecnologia.
+- 🛠️ Utilizando projetos práticos para consolidar meus conhecimentos.
+
+## 🧰 Tecnologias e ferramentas
+
+- Python
+- SQL
+- SQLite
+- Pandas
+- Excel
+- Power BI
+- Git e GitHub
+
+## 📂 Projetos
+
+Estou construindo meu portfólio com projetos práticos de desenvolvimento
+de software, bancos de dados e análise de dados.
+
+Os projetos serão adicionados aqui conforme forem desenvolvidos,
+documentados e disponibilizados neste perfil.
+
+## 📫 Contato
+
+- GitHub: [leo-albuquerque1710](https://github.com/leo-albuquerque1710)
